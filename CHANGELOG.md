@@ -1,4 +1,7 @@
-# Changelog for submission_state
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
 
 ## 0.0.1
 
@@ -7,4 +10,3 @@
 * Initial release with BaseBloc, BaseState, and FormSubmissionState.
 * Predefined states included with Equatable support.
 * Example usage for BLoC and form submissions added.
-
