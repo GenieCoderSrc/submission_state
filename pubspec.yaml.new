@@ -1,0 +1,13 @@
+name: submission_state
+description: "A Dart/Flutter package providing base BLoC and form submission states with Equatable support, following SOLID principles."
+
+
+version: 0.0.2
+homepage: https://github.com/GenieCoderSrc/submission_state
+repository: https://github.com/GenieCoderSrc/submission_state
+issue_tracker: https://github.com/GenieCoderSrc/submission_state/issues
+
+environment:
+  sdk: \x27>=3.6.0 <4.0.0\x27
+  resolution: workspace
+  resolution: workspace
