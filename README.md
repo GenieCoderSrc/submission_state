@@ -18,6 +18,8 @@ A Dart/Flutter package that provides abstract base classes and commonly used sta
 Add this package to your `pubspec.yaml`:
 
 ```yaml
+resolution: workspace
+
 dependencies:
   submission_state: <latest_version>
 ```
